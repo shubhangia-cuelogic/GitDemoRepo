@@ -12,4 +12,5 @@ class Product {
     var vendorName: String = ""
     var vendorAddress: String = ""
     var productImgGallary: String = "ABC"
+
 }
